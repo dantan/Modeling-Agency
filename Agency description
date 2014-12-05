@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640">
+    <style>
+html {
+  background-color: pink;
+  font-family: 'Trebuchet MS', sans-serif;
+  </style>
+ <link rel="stylesheet" href="stylesheets/core.css" media="screen">
+   
+ 
+   
+    </script>
+    
+    </script>
+
+   
+    <title>Description Of Career</title>
+  </head>
+
+  <body>
+ <a id="forkme_banner" href="https://github.com/Jordan24640/Description-of-career-">View on GitHub</a>
+-    <div class="shell">
+
+
+  
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Description of Modeling Agency</h1>
+          
+            <h2></h2>
+         
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+<br>Modeling agency is where people help upcoming models to succeed and become famous. The agents refers the models to famous photographers that will help them become famous.
+<br><a href=https://www.cravemodels.com
+target="_blank"><img alt="Modeling agency example" target="_blank" title="Modeling agency example" src=http://www.cravemodels.com/logo_small.jpg></a>
+      </section>
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>this project by <a href="https://github.com/Jordan24640">Jordan24640</a> can be found on <a href="https://github.com/Jordan24640/Description-of-career-">GitHub</a></p>
+          </span>
+          Models are cool 
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="http://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
